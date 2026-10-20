@@ -5,7 +5,7 @@ A data mining project using a liver patient dataset to analyze patient data and 
 
 Project Details
 
-Course: CIS 517 - Data Mining
+Course: CIS 517 - Data Mining /n
 Group: #2
-Section: FI3
-Submission Date: December 5, 2025
+/n Section: FI3
+/n Submission Date: December 5, 2025
